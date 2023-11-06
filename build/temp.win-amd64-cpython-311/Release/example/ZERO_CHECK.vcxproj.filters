@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Paper\MAXLSqi\iq_maxlfq_cmake\build\temp.win-amd64-cpython-311\Release\example\CMakeFiles\53a66e26ecf65d0b578cfdde59108485\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B32F7787-D779-39BC-BCB5-2388E24A53BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

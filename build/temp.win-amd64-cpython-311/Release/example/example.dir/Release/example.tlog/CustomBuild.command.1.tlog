@@ -1,0 +1,10 @@
+^D:\PAPER\MAXLSQI\IQ_MAXLFQ_CMAKE\CMAKELISTS.TXT
+setlocal
+C:\Users\quocvuong\AppData\Local\Temp\pip-build-env-zj0eqnkl\overlay\Lib\site-packages\cmake\data\bin\cmake.exe -SD:/Paper/MAXLSqi/iq_maxlfq_cmake -BD:/Paper/MAXLSqi/iq_maxlfq_cmake/build/temp.win-amd64-cpython-311/Release/example --check-stamp-file D:/Paper/MAXLSqi/iq_maxlfq_cmake/build/temp.win-amd64-cpython-311/Release/example/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

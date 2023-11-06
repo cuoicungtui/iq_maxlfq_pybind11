@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Paper\MAXLSqi\iq_maxlfq_cmake\src\iq_witch_py.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Paper\MAXLSqi\iq_maxlfq_cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BDBFDDDB-01C1-37DD-9EF7-20E87CDFD064}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

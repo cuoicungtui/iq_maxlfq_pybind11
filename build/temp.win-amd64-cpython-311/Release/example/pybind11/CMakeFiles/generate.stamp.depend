@@ -1,0 +1,20 @@
+# CMake generation dependency list for this directory.
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeDependentOption.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CMakeParseArguments.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/FindPythonInterp.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/GNUInstallDirs.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/quocvuong/AppData/Local/Temp/pip-build-env-zj0eqnkl/overlay/Lib/site-packages/cmake/data/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake
+D:/Paper/MAXLSqi/iq_maxlfq_cmake/pybind11/CMakeLists.txt
+D:/Paper/MAXLSqi/iq_maxlfq_cmake/pybind11/tools/FindPythonLibsNew.cmake
+D:/Paper/MAXLSqi/iq_maxlfq_cmake/pybind11/tools/JoinPaths.cmake
+D:/Paper/MAXLSqi/iq_maxlfq_cmake/pybind11/tools/pybind11Common.cmake
+D:/Paper/MAXLSqi/iq_maxlfq_cmake/pybind11/tools/pybind11Tools.cmake
